@@ -11,13 +11,13 @@ _Know the data exploration techniques using the data structure, Dataframe with t
 - Download the Airlines Delay: Airline on-time statistics and delay causes data set and upload it to a Dataframe pandas. Explore the data it contains, and keep only the columns you consider relevant.
 
 # Exercise 2
-- Fes un informe complet del data set:.
+- Make a complete report of the data set:.
 
-  * Resumeix estadísticament les columnes d’interès
-  * Troba quantes dades faltants hi ha per columna
-  * Crea columnes noves (velocitat mitjana del vol, si ha arribat tard o no...)
-  * Taula de les aerolínies amb més endarreriments acumulats
-  *Quins són els vols més llargs? I els més endarrerits?
+    * Statistical Curriculum Vitae of the Columns of Interest
+    * Find how many missing data are per column
+    * Create new columns (average flight speed, whether late or not ...)
+    * Table of airlines with the most accumulated arrears
+    * What are the longest flights? And the most backward?
  
 
 # Exercise 3
