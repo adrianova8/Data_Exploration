@@ -13,7 +13,7 @@ _Know the data exploration techniques using the data structure, Dataframe with t
 # Exercise 2
 - Make a complete report of the data set:.
 
-    * Statistical Curriculum Vitae of the Columns of Interest
+    * Summarize the columns of interest statistically
     * Find how many missing data are per column
     * Create new columns (average flight speed, whether late or not ...)
     * Table of airlines with the most accumulated arrears
