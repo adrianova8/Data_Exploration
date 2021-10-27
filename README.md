@@ -1,4 +1,4 @@
-# S03 T05: Data exploration
+# S03 T05: Data Exploration
 
 **Target:**
 
