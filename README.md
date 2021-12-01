@@ -21,4 +21,4 @@ _Know the data exploration techniques using the data structure, Dataframe with t
  
 
 # Exercise 3
-- xport the dataset clean and with the new columns to Excel.
+- Export the dataset clean and with the new columns to Excel.
